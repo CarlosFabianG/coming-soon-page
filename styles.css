@@ -1,7 +1,13 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
+    margin: 0px;
 }
-
 .main__container {
     display: flex;
+}
+.text__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
 }

@@ -13,3 +13,6 @@ body {
     height: 100%;
     width: 50%;
 }
+.right__container img {
+    height: 100vh;
+}
